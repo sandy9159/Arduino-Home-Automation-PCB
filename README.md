@@ -40,6 +40,12 @@ You can place HC-05 BT module in the PCB so that you can remotly control the loa
 
 # Custom PCB
 
+In this PCB we used Arduino Nano as a micro controller, and we have used 3 5V relays so that we can run AC load on to this PCB.
+
+One HC O5 BT module is also there to provide BT Connectivity. 
+
+
+
 ![image](https://user-images.githubusercontent.com/19898602/167251405-2de80b13-88c5-4405-808b-635cd9dce679.png)
 ![image](https://user-images.githubusercontent.com/19898602/167251429-d57ebeae-551e-4154-8ac6-6805b3712856.png)
 
@@ -48,4 +54,35 @@ You can place HC-05 BT module in the PCB so that you can remotly control the loa
 ![image](https://user-images.githubusercontent.com/19898602/167251466-09bb43f8-2a90-4954-8ac4-ac1f4ec4cd5b.png)
 ![image](https://user-images.githubusercontent.com/19898602/167251486-378ac368-1aee-4ce7-a030-72e94831ce84.png)
 
+I have design circuit and PCB ineasy EDA and ordered PCB from [JLCPCB.com](https://jlcpcb.com/IAT)
 
+
+
+
+[JLCPCB.com](https://jlcpcb.com/IAT) are the world leader in PCB manufacturing there PCB production rates are very much affordable and they have world class PCB production unit results fast PCB production.
+
+I have provided the link of circuit desgin so that you can modify it as per your need if you need to change any thing.
+
+https://oshwlab.com/sharmaz747/home-automation-pcb
+
+
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $30 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $30 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
