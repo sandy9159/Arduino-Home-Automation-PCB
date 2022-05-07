@@ -90,6 +90,14 @@ For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 # Demo of Home Automation
 
+Home automation works via a network of devices that are connected to the Internet through different communication protocols, i.e Wi-Fi, Bluetooth, ZigBee, and others. Through electronic interfaces, 
+
+the devices can be managed remotely through controllers, either a voice assistant like Alexa or Google Assistant or an app. Many of these IoT devices have sensors that monitor changes in motion, temperature, and light so the user can gain information about the device’s surroundings. 
+
+To make physical changes to the device, the user triggers actuators, the physical mechanisms like smart light switches, 
+
+motorized valves or motors that allows devices to be controlled remotely.1
+
 In this below small demo video I have connected 3 AC load with the PCB and controlling them using android mobile
 
 
