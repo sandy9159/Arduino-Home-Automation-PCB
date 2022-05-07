@@ -35,4 +35,17 @@ You can place HC-05 BT module in the PCB so that you can remotly control the loa
 
 
 ![image](https://user-images.githubusercontent.com/19898602/167251053-16d345b8-02fc-45e9-946d-f413c521a975.png)
+![image](https://user-images.githubusercontent.com/19898602/167251475-d829eb38-79d5-4dbe-8b80-07b955e8d7f2.png)
+
+
+# Custom PCB
+
+![image](https://user-images.githubusercontent.com/19898602/167251405-2de80b13-88c5-4405-808b-635cd9dce679.png)
+![image](https://user-images.githubusercontent.com/19898602/167251429-d57ebeae-551e-4154-8ac6-6805b3712856.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/167251447-da1fdc24-6c61-4852-bf45-655980a52d85.png)
+![image](https://user-images.githubusercontent.com/19898602/167251466-09bb43f8-2a90-4954-8ac4-ac1f4ec4cd5b.png)
+![image](https://user-images.githubusercontent.com/19898602/167251486-378ac368-1aee-4ce7-a030-72e94831ce84.png)
+
 
