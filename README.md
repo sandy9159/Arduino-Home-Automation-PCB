@@ -3,21 +3,20 @@
 ![image](https://user-images.githubusercontent.com/19898602/167250820-eca71984-8cb2-4e66-a5ed-30f343c9aa0b.png)
 
 
-Hello friends this time I came up with very usefull PCB which is Home Automation PCB.
+Hello friends this time I came up with very useful PCB which is Home Automation PCB.
 
-yes arduino is wiedly used in DIY home automation projects. many of makers used bread board or zero PCB for there project
+Yes arduino is widely used in DIY home automation projects. Many of makers used bread board or zero PCB for their project
 
-But as home Automation is used or our home so things must be also looks good and professional. 
+But as home Automation is used or our home so things must be also looks good and professional.
 
 You don't want to be there loss wires hanging in your house, so this PCB is best solution for home automation project.
 
+Home automation is the automatic control of electronic devices in your home. These devices are connected to the Internet,
 
-Home automation is the automatic control of electronic devices in your home. These devices are connected to the Internet, 
+Which allows them to be controlled remotely. With home automation, devices can trigger one another so you don’t have to control them manually via an app or voice assistant
 
-which allows them to be controlled remotely. With home automation, devices can trigger one another so you don’t have to control them manually via an app or voice assistant
+You can place HC-05 BT module in the PCB so that you can remotely control the load in your house remotely.
 
-
-You can place HC-05 BT module in the PCB so that you can remotly control the load in your house remotly.
 
 
 
@@ -86,3 +85,15 @@ Now no need to order components separately for you PCB and get free from stress 
 
 
 For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+
+# Demo of Home Automation
+
+In this below small demo video I have connected 3 AC load with the PCB and controlling them using android mobile
+
+
+
+![DIY Home Automation using Arduino](https://user-images.githubusercontent.com/19898602/167251950-72e4ea12-a59b-48ca-84be-ab89d4dd8de2.gif)
+
+
